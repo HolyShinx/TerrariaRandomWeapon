@@ -1,6 +1,7 @@
 {
   "$meta": {
-    "author": "rotyler"
+    "author": "rotyler",
+    "modified": "ItsMeTanontZ"
   },
   "terrariaVersion": "1.4.4.7",
   "stages": [
@@ -10,6 +11,10 @@
         {
           "name": "Copper Shortsword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Copper_Shortsword.png"
+        },
+        {
+          "name": "Cobwhip",
+          "img": "https://terraria.wiki.gg/images/Cobwhip.png?9c6067"
         },
         {
           "name": "Tin Shortsword",
@@ -42,6 +47,14 @@
         {
           "name": "Ash Wood Sword",
           "img": "https://terraria.wiki.gg/images/0/0c/Ash_Wood_Sword.png"
+        },
+        {
+          "name": "Cattiva",
+          "img": "https://terraria.wiki.gg/images/Cattiva.png?12c45c"
+        },
+        {
+          "name": "Foxparks",
+          "img": "https://terraria.wiki.gg/images/Foxparks.png?4c9c94"
         },
         {
           "name": "Flymeal",
@@ -168,12 +181,20 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Light%27s_Bane.png"
         },
         {
+          "name": "Soulscourge",
+          "img": "https://terraria.wiki.gg/images/Soulscourge.png?9706c3"
+        },
+        {
           "name": "Exotic Scimitar",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Exotic_Scimitar.png"
         },
         {
           "name": "Blood Butcherer",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Blood_Butcherer.png"
+        },
+        {
+          "name": "Vasculash",
+          "img": "https://terraria.wiki.gg/images/Vasculash.png?78cce7"
         },
         {
           "name": "Starfury",
@@ -524,6 +545,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Finch_Staff.png"
         },
         {
+          "name": "Acorn Slingshot",
+          "img": "https://terraria.wiki.gg/images/Acorn_Slingshot.png"
+        },
+        {
           "name": "Slime Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Slime_Staff.png"
         },
@@ -546,6 +571,10 @@
         {
           "name": "Snapthorn",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Snapthorn.png"
+        },
+        {
+          "name": "Mud Ball",
+          "img": "https://terraria.wiki.gg/images/Mud_Ball.png?aa54aa"
         }
       ]
     },
@@ -555,6 +584,14 @@
         {
           "name": "Gray Zapinator",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png"
+        },
+        {
+          "name": "Slime Spear",
+          "img": "https://terraria.wiki.gg/images/Slime_Spear.png?29158e"
+        },
+        {
+          "name": "Slime Whip",
+          "img": "https://terraria.wiki.gg/images/Slime_Whip.png?de2680"
         }
       ]
     },
@@ -597,6 +634,14 @@
         {
           "name": "Space Gun",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Space_Gun.png"
+        },
+        {
+          "name": "Starcrash",
+          "img": "https://terraria.wiki.gg/images/Starcrash.png?72fd1c"
+        },
+        {
+          "name": "Mushroom Staff",
+          "img": "https://terraria.wiki.gg/images/Mushroom_Staff.png?1d92f0"
         },
         {
           "name": "Imp Staff",
@@ -756,6 +801,14 @@
         {
           "name": "Spinal Tap",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Spinal_Tap.png"
+        },
+        {
+          "name": "Pretty Mirror",
+          "img": "https://terraria.wiki.gg/images/Pretty_Mirror.png"
+        },
+        {
+          "name": "Tragic Umbrella",
+          "img": "https://terraria.wiki.gg/images/Tragic_Umbrella.png?906a02"
         }
       ]
     },
@@ -1096,6 +1149,22 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Pirate_Staff.png"
         },
         {
+          "name": "Barrel Launcher",
+          "img": "https://terraria.wiki.gg/images/Barrel_Launcher.png?64a9fa"
+        },
+        {
+          "name": "Killing Deck",
+          "img": "https://terraria.wiki.gg/images/Killing_Deck.png?a7e0b3"
+        },
+        {
+          "name": "Flint",
+          "img": "https://terraria.wiki.gg/images/Flint.png?35330f"
+        },
+        {
+          "name": "Barnacle Staff",
+          "img": "https://terraria.wiki.gg/images/Barnacle_Staff.png?91eaf2"
+        },
+        {
           "name": "Sanguine Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Sanguine_Staff.png"
         },
@@ -1316,6 +1385,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Flower_Pow.png"
         },
         {
+          "name": "Vulgar Display of Flower",
+          "img": "https://terraria.wiki.gg/images/Vulgar_Display_of_Flower.png?bec25c"
+        },
+        {
           "name": "Scourge of the Corruptor",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Scourge_of_the_Corruptor.png"
         },
@@ -1499,6 +1572,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Flairon.png"
         },
         {
+          "name": "Electric Eel",
+          "img": "https://terraria.wiki.gg/images/Electric_Eel.png?f6611d"
+        },
+        {
           "name": "Tsunami",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Tsunami.png"
         },
@@ -1654,6 +1731,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Stardust_Dragon_Staff.png"
         },
         {
+          "name": "Constellation",
+          "img": "https://terraria.wiki.gg/images/Constellation.png?ea8c01"
+        },
+        {
           "name": "Nebula Arcanum",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Nebula_Arcanum.png"
         },
@@ -1705,6 +1786,10 @@
         {
           "name": "Rainbow Crystal Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Rainbow_Crystal_Staff.png"
+        },
+        {
+          "name": "Possession",
+          "img": "https://terraria.wiki.gg/images/Possession.png?6d3886"
         }
       ]
     }

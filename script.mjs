@@ -164,7 +164,7 @@ function createWeaponHTML(weapon) {
     return "None";
   }
 
-  return `<img class="weaponImage" src="${weapon.img === undefined ? "" : weapon.img}"> ${weapon.name}`;
+  return `<img class="weaponImage" referrerpolicy="no-referrer" loading="lazy" decoding="async" src="${weapon.img === undefined ? "" : weapon.img}" alt="${weapon.name}"> ${weapon.name}`;
 }
 
 /**
