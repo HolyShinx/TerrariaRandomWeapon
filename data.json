@@ -574,6 +574,22 @@
         {
           "name": "Mud Ball",
           "img": "https://terraria.wiki.gg/images/Mud_Ball.png?aa54aa"
+        },
+		{
+          "name": "Daybloom Staff",
+          "img": "https://terraria.wiki.gg/images/Daybloom_Staff.png?44e948"
+        },
+		{
+          "name": "Glacier Fang",
+          "img": "https://terraria.wiki.gg/images/Glacier_Fang.png?4f585a"
+        },
+		{
+          "name": "Mystic Bloom",
+          "img": "https://terraria.wiki.gg/images/Mystic_Bloom.png?62ecff"
+        }
+		{
+          "name": "Clay Bud Staff",
+          "img": "https://terraria.wiki.gg/images/Clay_Bud_Staff.png?a6dd06"
         }
       ]
     },
@@ -888,10 +904,6 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Bladetongue.png"
         },
         {
-          "name": "Format:C",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Format_C.png"
-        },
-        {
           "name": "Gradient",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Gradient.png"
         },
@@ -1178,7 +1190,16 @@
         {
           "name": "Cool Whip",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Cool_Whip.png"
+        },
+		{
+          "name": "Lightning Strike",
+          "img": "https://terraria.wiki.gg/images/Lightning_Strike.png?526f8a"
+        },
+		{
+          "name": "Ruinous Staff",
+          "img": "https://terraria.wiki.gg/images/Ruinous_Staff.png?77563c"
         }
+		
       ]
     },
     {
@@ -1304,7 +1325,11 @@
         {
           "name": "Durendal",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Durendal.png"
-        }
+        },
+		{
+          "name": "Format C",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Format_C.png"
+        },
       ]
     },
     {
@@ -1366,10 +1391,6 @@
         {
           "name": "Terra Blade",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Terra_Blade.png"
-        },
-        {
-          "name": "Kraken",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Kraken.png"
         },
         {
           "name": "The Eye of Cthulhu",
@@ -1589,6 +1610,10 @@
         {
           "name": "Tempest Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e0/Tempest_Staff.png"
+        },
+		{
+          "name": "Kraken",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Kraken.png"
         }
       ]
     },
@@ -1699,6 +1724,10 @@
         {
           "name": "Ballista Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png"
+        },
+		{
+          "name": "Arc Surge",
+          "img": "https://terraria.wiki.gg/images/Arc_Surge.png?9ecfba"
         }
       ]
     },

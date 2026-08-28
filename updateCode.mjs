@@ -26,7 +26,7 @@ export function statePotentialUpdate(state) {
       selectedWeapon.name = weaponChanges[selectedWeapon.name];
     }
     
-    state.terrariaVersion = '1.4.5.6'; // Update completed
+    state.terrariaVersion = '1.4.5.8'; // Update completed
   }
 
   return state;
